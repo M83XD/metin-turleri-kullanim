@@ -1,1 +1,1 @@
-# metin-turleri-kullanim
+# HTML ve CSS kullanarak yapılan metin türleri kullanımları         
